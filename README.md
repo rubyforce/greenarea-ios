@@ -1,7 +1,7 @@
 Green Area 1.0
 ==============
 
-Green Area 1.0 is a iOS client written in Objective-C for [Green Area](greenarea.herokuapp.com).
+Green Area 1.0 is a iOS client written in Objective-C for [Green Area](http://greenarea.herokuapp.com/).
 
 Philosophy
 ------
