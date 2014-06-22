@@ -19,7 +19,7 @@ Creators
 
 iOS client
 
-[Volk Dmitri](https://github.com/Dmitrovsky)
+[Volk Dmitri](https://github.com/volkdmitri)
 
 Ruby on Rails application
 
